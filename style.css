@@ -1,0 +1,12 @@
+.cabecalho-moda {
+    background-color:  #BB86FC;
+    color: rgba(255, 255, 255, 0.824);
+}
+.descricao{
+    background-color:  #424250;
+    color: hsla(0, 0%, 100%, 0.975);
+}
+.cabecalho-casa{
+    background-color:  #00C4B4;
+    color: rgb(255, 255, 255);
+}

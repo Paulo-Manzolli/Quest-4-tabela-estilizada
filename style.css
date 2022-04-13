@@ -10,3 +10,12 @@
     background-color:  #00C4B4;
     color: rgb(255, 255, 255);
 }
+th {
+    padding: 5px;
+    text-align: center;
+}
+
+td {
+    padding: 10px;
+    text-align: center;
+}
